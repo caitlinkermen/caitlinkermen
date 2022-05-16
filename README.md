@@ -17,16 +17,16 @@
 
 ### My Values
 
-:yellow_heart: Morality, Empathy, and Logic
-:brain: Intellectual honesty
-:watch: Volunteering my time to my community
+:yellow_heart: Morality, Empathy, and Logic <br>
+:brain: Intellectual honesty <br>
+:watch: Volunteering my time to my community <br>
 
 
 ### Things I'm Focusing On This Year To Further My Career:
 
-:chart_with_upwards_trend: Machine Learning, Deep Learning
-:books: Familiarizing myself with more coding languages
-:keyboard: Participating in public coding challenges 
+:chart_with_upwards_trend: Machine Learning, Deep Learning <br>
+:books: Familiarizing myself with more coding languages <br>
+:keyboard: Participating in public coding challenges <br>
 
 
 ### Getting in Touch 
